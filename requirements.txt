@@ -1,0 +1,15 @@
+pandas
+matplotlib
+scipy
+scikit-image==0.12.3
+scikit-learn
+numpy==1.12.0
+gpxpy
+geopy
+pynmea2
+jupyter
+jupyter_contrib_nbextensions
+imutils
+keras
+tensorflow
+h5py

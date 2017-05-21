@@ -1,0 +1,1 @@
+nohup python sign_detection/features/make_dataset_and_build_features.py -run_code="170329" -gps_path="data/interim/170329/gps/3.29.12.47_35.pkl" -frame_i=71400 -frame_f=75000 -hough_radii_increment=4 -keep_output -dont_del_old > nohup_70001_75000.log &
